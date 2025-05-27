@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Best School" > "\*\\'\"Best School\"\'\\*$\?\*\*\*\*\*:)"
+filname="*\\'\"Best School\"'\\*\$?\*\*\*\*\*:)" echo "Best School" > "$filename"
