@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "C\nJavaScipt\nC++\nGo\nJavaScipt" | sort | uniq -u
+sort | uniq -u
