@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "bread\nbanana\nbread\napple" | sort | uniq -u
+echo -e "C\nJavaScipt\nC++\nGo\nJavaScipt" | sort | uniq -u
