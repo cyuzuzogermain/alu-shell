@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e "bread\nbanana\nbread\napple" | sort | uniq -u
