@@ -1,2 +1,2 @@
 #!/bin/bash
-string={$string//A/Z//c/e}
+tr "Ac" "Ze"
