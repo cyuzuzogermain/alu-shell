@@ -1,0 +1,7 @@
+#!/usr/bin/env
+# USING A FOR LOOP TO PRINT BEST SCHOOL 10 TIME
+
+for i in { 1..5 }
+do
+	echo "Best School"
+done
