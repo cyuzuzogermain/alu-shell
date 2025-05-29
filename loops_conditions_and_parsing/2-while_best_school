@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# DISPLAYING BEST SCHOOL 10 TIMES USING WHILE LOOP
+
+i=0
+
+while (( i<10 ))
+do
+	echo "Best School"
+	i++
+done
