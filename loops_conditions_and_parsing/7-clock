@@ -2,11 +2,11 @@
 # CLOCK
 
 hour=0
-minutes=1
 
 while ((hour<=12))
 do
 	echo "Hour: $hour"
+	minutes=1
 	while ((minutes<=59))	
 	do
 		echo "$minutes"
