@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+#SUPERSTITIOUS NUMBERS
+
+i=0
+while ((i<=20))
+do
+	case $i in
+		4)
+		echo "bad luck from China"
+		;;
+		case $i in
+		9)
+		echo "bad luck from Japan"
+		;;
+		case $ in
+		17)
+		echo "bad luck ftom Italy"
+		;;
+		*)
+		echo "$i"
+	esac
+	((i++))
+done
