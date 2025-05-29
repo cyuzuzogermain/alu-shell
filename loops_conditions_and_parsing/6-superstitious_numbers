@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #SUPERSTITIOUS NUMBERS
 
-i=0
+i=1
 while ((i<=20))
 do
 	echo "$i"
