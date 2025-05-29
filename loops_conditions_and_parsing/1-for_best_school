@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # USING A FOR LOOP TO PRINT BEST SCHOOL 10 TIME
 
-for i in { 1..5 }
+for i in { 1..10 }
 do
 	echo "Best School"
 done
