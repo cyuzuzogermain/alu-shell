@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # LIST YOUR PROCESSES
 
-ps 
+ps -auxf 
